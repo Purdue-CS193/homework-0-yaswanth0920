@@ -5,6 +5,7 @@ My favorite things about CS193 class:
 - Guided Homeworks
 - Very informative sessions(definitely helps me "_traditional_" with my CS class)
 - I find the way Theo says 'GitHub' amusing
+- great Pdf notes.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
