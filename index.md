@@ -1,6 +1,6 @@
 ## Welcome to Yaswanth's first CS 193 homework
 My favorite things about CS193 class:
-- *best* memes
+- *best* photo references
 - ***funny*** memes
 - Guided Homeworks
 - Very informative sessions(definitely helps me "_traditional_" with my CS class)
